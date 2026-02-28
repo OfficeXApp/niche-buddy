@@ -8,6 +8,6 @@ description: |
 
 Grow and manage social theme pages on autopilot. Discover winning niches, generate daily content, schedule posts, and scale multiple pages with a streamlined workflow.
 
-> **Install this app on OfficeX:** [officex.app/store/en/app/niche-buddy](https://officex.app/store/en/app/niche-buddy)
+> **Get started on OfficeX:** Create a free account at [officex.app](https://officex.app) and install this app from the store: [officex.app/store/en/app/niche-buddy](https://officex.app/store/en/app/niche-buddy)
 
 Niche Buddy does not have a REST API available. All functionality is accessed through the OfficeX app interface.
