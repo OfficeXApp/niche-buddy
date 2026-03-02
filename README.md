@@ -18,7 +18,6 @@ A SKILL.md is a structured documentation file that AI agents (like Claude, ChatG
 
 ## Also available as
 
-- [`npx skills add OfficeXApp/daily-tiktok`](https://github.com/OfficeXApp/daily-tiktok) — [officex.app/store/en/app/daily-tiktok](https://officex.app/store/en/app/daily-tiktok)
 - [`npx skills add OfficeXApp/tiktok-farm`](https://github.com/OfficeXApp/tiktok-farm) — [officex.app/store/en/app/tiktok-farm](https://officex.app/store/en/app/tiktok-farm)
 - [`npx skills add OfficeXApp/video-farm`](https://github.com/OfficeXApp/video-farm) — [officex.app/store/en/app/video-farm](https://officex.app/store/en/app/video-farm)
 
